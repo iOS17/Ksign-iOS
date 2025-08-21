@@ -2,9 +2,18 @@
 
 KSign iOS is the best free IPA signing tool for iOS 14-18.6 &iOS 26 beta 4, allowing you to install third-party apps, games, jailbreak apps, and tweaks on your iPhone or iPad without requiring a computer, jailbreak, or complicated setup. This comprehensive guide covers everything you need to know about KSign iOS in 2025.
 
+Latest update: Ksign iOS v1.4.1 
+Key Changes: 
+- New default app icon! This one can adapt to Dark Mode and Tint and way more cleaner than old one
+- A new zip extractor ZIPFoundation, you can choose to use this in app's Archive & Extraction settings if importing IPA doesnt work on Zip
+Plist Editor just got even better!
+- Context menu for file manager is back and even better! (the hold on a file row menu)
+- Edit toolbar is now on top right so ios 26 tabbar doesnt hid it
+- Move/Export option is now use system picker instead
+- A few UI changes
+
+
 ## KSign iOS: The Ultimate Free IPA Signer for iPhone & iPad - Complete Guide (2025)
-
-
 
 Are you tired of Apple's restrictions on installing third-party apps? Looking for a reliable way to sideload IPA files directly on your iPhone without needing a computer? After testing numerous IPA signing solutions over the past five years and helping thousands of iOS users break free from App Store limitations, I can confidently say that KSign iOS represents the gold standard for on-device app signing in 2025.
 

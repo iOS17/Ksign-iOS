@@ -12,6 +12,8 @@ Plist Editor just got even better!
 - Move/Export option is now use system picker instead
 - A few UI changes
 
+[Download Ksign Patcher iOS 26 Beta ](https://kekuk.com/ksign/)
+
 
 ## KSign iOS: The Ultimate Free IPA Signer for iPhone & iPad - Complete Guide (2025)
 

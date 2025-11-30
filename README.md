@@ -1,22 +1,22 @@
-# Ksign iOS IPA Sideloader - iOS 18.7.1 - iOS 26.1 beta 2 (iOS 17)
+# Ksign iOS IPA Sideloader - iOS 18.7.2 - iOS 26.2 (iOS 17.7.7)
 
-KSign iOS is the best free IPA signing tool for iOS 14-18.7.1 &iOS 26.1 beta 2, allowing you to install third-party apps, games, jailbreak apps, and tweaks on your iPhone or iPad without requiring a computer, jailbreak, or complicated setup. This comprehensive guide covers everything you need to know about KSign iOS in 2025.
+KSign iOS is the best free IPA signing tool for iOS 14-18.7.2 & iOS 26.2, allowing you to install third-party apps, games, jailbreak apps, and tweaks on your iPhone or iPad without requiring a computer, jailbreak, or a complicated setup. This comprehensive guide covers everything you need to know about KSign iOS in 2025.
 
 Latest update: Ksign iOS v1.5 
 
 Key Changes: 
 
 - Bulk Signing (select multiple apps and click on the sign icon)
-- Ksign can be run in background now finally! (helpful with downloading ipas and installing them)
+- Ksign can be run in the background now, finally! (helpful with downloading IPAs and installing them)
 - Logs tab so you can see what's going on under the hood!
 - Added experiments signing option from Feather
-- Reset cache and storage in reset tab
-- Ability to bundle default certificate with app
-- Ability to edit text files and make a new one in file manager
-- A few small UI changes
+- Reset cache and storage in the reset tab
+- Ability to bundle the default certificate with the app
+- Ability to edit text files and make a new one in the file manager
+- A few minor UI changes
 
 
-[Download Ksign Patcher iOS 26.1 Beta - iOS 16 ](https://kekuk.com/ksign/)
+[Download Ksign Patcher iOS 26.2 - iOS 16 ](https://kekuk.com/ksign/)
 
 
 ## KSign iOS: The Ultimate Free IPA Signer for iPhone & iPad - Complete Guide (2025)
@@ -40,19 +40,19 @@ KSign iOS is a revolutionary IPA signing application that enables iPhone and iPa
 
 ### How KSign iOS Revolutionizes App Installation
 
-Traditional iOS app installation requires either App Store approval or complex workarounds involving computers and developer accounts. For uninitiated users, iOS devices don't allow users to install third-party apps directly, unlike Android, which requires specialized IPA signing tools like KSign iOS.
+Traditional iOS app installation requires either App Store approval or complex workarounds involving computers and developer accounts. For uninitiated users, iOS devices don't allow installing third-party apps directly, unlike Android, which requires specialized IPA signing tools like KSign iOS.
 
 The breakthrough innovation of KSign iOS lies in its ability to perform certificate-based signing entirely on your device. This eliminates the traditional barriers that have kept advanced app management exclusive to developers and technical enthusiasts.
 
 ## Complete KSign iOS Installation Guide: Step-by-Step Instructions
 
-Installing KSign iOS might seem daunting initially, but following this proven method ensures success within minutes. I've personally guided hundreds of users through this process, and this approach works consistently across all supported iOS versions.
+Installing KSign iOS might seem daunting at first, but following this proven method ensures success in minutes. I've personally guided hundreds of users through this process, and this approach works consistently across all supported iOS versions.
 
 ### Prerequisites Before Installing KSign iOS
 
 Before beginning installation, ensure you have:
 
-- **Compatible iOS Device**: iPhone or iPad running iOS 15 - iOS 26 (iOS 18.7.1 fully supported)
+- **Compatible iOS Device**: iPhone or iPad running iOS 15 - iOS 26.2 (iOS 18.7.2 fully supported)
 - **Stable Internet Connection**: WiFi or cellular data for downloading certificates
 - **Free Certificate**: Free [ZeeSginer](https://esigncert.zeejb.com/) certificate 2025 or [KSign certificate](https://udidmaster.com/) for signing apps without a paid Apple developer account
 - **Safari Browser**: Required for initial download process
@@ -385,7 +385,7 @@ What's Changed
 - Apps in App Store tab now has a detailed view
 - Added only modify option, you can find this in signing properties
 - Added revoke check in certificates
-- Cleaned up and fixed some UI inconsistency in File Manager on ipads
+- Cleaned up and fixed some UI inconsistencies in File Manager on ipads
 - Added Liquid Glass appearance
 - Avoid the Signing Failed error upon signing a few apps
 - Cleaned up a bit UI
@@ -393,16 +393,16 @@ What's Changed
 **- v1.3.2**
 What's Changed
 - Adjust 'Show Dylibs' to include injected dylibs located in the .app directory by @brynts in #27
-- Added selection in Library tab for bulk deletion
-- Fixed on automatically adding Tweaks in Tweaks folder
+- Added selection in the Library tab for bulk deletion
+- Fixed on automatically adding Tweaks in the Tweaks folder
 
 **- 1.3.1**
 - Added Delete after install feature - you can enable this in signing options
 - Add a new small icon under every app to indicate which repo it was from
 - Remake the Downloader
 - Added back the UI tint color customization
-- Added back option to change app icon
-- Updated Zsign to properly fix the unable to verify app integrity without replace the framework (thank you khcrysalis!)
+- Added back the option to change the app icon
+- Updated Zsign to properly fix the inability to verify app integrity without replacing the framework (thank you khcrysalis!)
 Clean up a bit UI
 
 
